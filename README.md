@@ -5,9 +5,9 @@
 
 - 🔭 Currently, I am engaged in crafting an automation application at Synchrony Financial as a Software Engineer Intern. This project focuses on reducing downtime for applications and improving their data analytics capabilities using React, and Java SpringBoot.
 
-- 🌱 I’m currently learning **Software Development using Application Frameworks**
+- 🌱 I’m currently learning Software Development using Application Frameworks
 
-- 💬 Ask me about **Software and Cloud Development, Data Analytics**
+- 💬 Ask me about Software and Cloud Development, Data Analytics
 
 - 📫 How to reach me **sssaoji2@illinois.edu**
 
